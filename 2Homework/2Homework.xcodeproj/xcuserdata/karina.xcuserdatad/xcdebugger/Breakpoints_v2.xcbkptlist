@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "005EF2AD-12FA-4341-943A-383B84FA613A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAFC16A0-A1AB-4CB1-8052-2345B552BC41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2Homework/CreateNewContactViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "AAFC16A0-A1AB-4CB1-8052-2345B552BC41 - 59feac33eef86c16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Homework.CreateNewContactViewController.nameNameTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "2Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karina/Desktop/Swift/Pratcise/Homeworks/2Homework/2Homework/CreateNewContactViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "AAFC16A0-A1AB-4CB1-8052-2345B552BC41 - c2040c6cdfff93aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Homework.CreateNewContactViewController.nameNameTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "2Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karina/Desktop/Swift/Pratcise/Homeworks/2Homework/2Homework/CreateNewContactViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AAFC16A0-A1AB-4CB1-8052-2345B552BC41 - e896705621e98733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Homework.CreateNewContactViewController.nameNameTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "2Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karina/Desktop/Swift/Pratcise/Homeworks/2Homework/2Homework/CreateNewContactViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "AAFC16A0-A1AB-4CB1-8052-2345B552BC41 - 39d57f183637c9ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Homework.CreateNewContactViewController.nameNameTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "2Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karina/Desktop/Swift/Pratcise/Homeworks/2Homework/2Homework/CreateNewContactViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "AAFC16A0-A1AB-4CB1-8052-2345B552BC41 - 523f0aaf11caa6b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Homework.CreateNewContactViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _Homework.CreateNewContactViewController"
+                  moduleName = "2Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karina/Desktop/Swift/Pratcise/Homeworks/2Homework/2Homework/CreateNewContactViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "AAFC16A0-A1AB-4CB1-8052-2345B552BC41 - 731046bfd48d5374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Homework.CreateNewContactViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_Homework.CreateNewContactViewController&gt;"
+                  moduleName = "2Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karina/Desktop/Swift/Pratcise/Homeworks/2Homework/2Homework/CreateNewContactViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
