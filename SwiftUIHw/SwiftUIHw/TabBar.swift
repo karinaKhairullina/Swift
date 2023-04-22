@@ -16,12 +16,14 @@ struct TabBar: View {
         TabView {
             HomeView(username: username).tabItem {
                 Label("Home", systemImage: "house")
+                    .foregroundColor(.red)
             }
             
             ExitView(showTabBar: $showTabBar, username: username).tabItem {
                 Label("Exit", systemImage: "rectangle.portrait.and.arrow.right.fill")
             }
         }
+        .accentColor(.white)
     }
 }
 
